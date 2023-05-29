@@ -1,0 +1,10 @@
+Clase Coche
+    Variable numPuertas
+
+    Función incrementarPuertas()
+        numPuertas = numPuertas + 1
+
+miCoche = nuevo Coche()
+miCoche.numPuertas = 2
+miCoche.incrementarPuertas()
+mostrar "El coche tiene", miCoche.numPuertas, "puertas."
