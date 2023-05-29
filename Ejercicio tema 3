@@ -1,0 +1,10 @@
+Función sumarTresNumeros(a, b, c)
+    suma = a + b + c
+    devolver suma
+
+Función principal main()
+    a = 5
+    b = 10
+    c = 15
+    resultado = sumarTresNumeros(a, b, c)
+    mostrar "El resultado de la suma es:", resultado
